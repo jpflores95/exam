@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+
+html {
+	background-color: #FFFFF0;
+}
+
+.header, .panel, .action {
+	margin: .5em;
+}
+
+.panel {
+	width: 50%;
+}
