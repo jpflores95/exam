@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 build/
 gradle/
 .gradle/
@@ -49,3 +50,6 @@ local.properties
 
 # Code Recommenders
 .recommenders/
+=======
+launchConfigurations/
+>>>>>>> 64351c49cc58f9ff8ca035f5c9c9d7c20ca77fa0
